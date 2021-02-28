@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Application:
 MyTradingFriend is meant to fill the void new traders encounter as they utilize strategies to maximize their returns / dividends
 
@@ -20,3 +21,6 @@ Changelog
 
     02-27-2021:
     0.1.0 - Initial Commit, no code written yet
+=======
+
+>>>>>>> origin/main
